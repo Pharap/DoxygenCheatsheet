@@ -11,7 +11,7 @@
 /// @date 1990-2011
 /// @pre Initialise the system.
 /// @bug Not all memory is freed when deleting an object of this class.
-/// @warning Improper use can crash your application.
+/// @warning Improper use can crash your program.
 /// @copyright MIT Licence.
 class SomeClass
 {
