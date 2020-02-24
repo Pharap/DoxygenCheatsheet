@@ -18,6 +18,10 @@ Begins a remark.
 
 Same as [`remark`](#remark)
 
+### note
+
+Identifies information of note.
+
 ### attention
 
 Identifies information that requires particular attention.
@@ -136,6 +140,18 @@ For code examples to be contained within a doc-comment use [`code`](#code) inste
 ```cpp
 /// @example usage_example.cpp
 ```
+
+### pre
+
+Identifies a [precondition](https://en.wikipedia.org/wiki/Precondition).
+
+### post
+
+Identifies a [postcondition](https://en.wikipedia.org/wiki/Postcondition).
+
+### invariant
+
+Identifies an [invariant](https://en.wikipedia.org/wiki/Invariant_(computer_science)).
 
 ## Metadata
 
